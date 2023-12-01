@@ -5,9 +5,11 @@ Creating a simulation for scheduling a COVID-19 vaccine appointment, incorporati
 src.main.resources
 - design.pdf: the design of your database schema.
 - create.sql: the create statement for your tables.
+
 src.main.scheduler.model
 - Caregiver.java: the data model for your caregivers.
 - Patient.java: the data model for your users.
 - Vaccine.java: the data model for vaccines.
+
 src.main.scheduler
 - Scheduler.java: the main runner for your command-line interface.
